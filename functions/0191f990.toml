@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:54:32.837585Z
+last_change = 2026-09-10T18:37:41.695301Z
 addr = 0x191f990
 size = 0xc1
 name = "C_GameRules_ctor"
+type = "long long"
 
 [header]
 name = "C_GameRules_ctor"
 addr = 0x191f990
+type = "long long"
 
 [header.args]

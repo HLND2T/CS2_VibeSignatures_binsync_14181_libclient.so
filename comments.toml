@@ -130,3 +130,136 @@ addr = 0x1a4cd77
 func_addr = 0x1a4cae0
 comment = "s1"
 decompiled = false
+
+[0xf20f20]
+last_change = 2026-09-10T18:37:54.801335Z
+addr = 0xf20f20
+func_addr = 0xf20e20
+comment = "0x10 = 16LL = IGameSystemFactory_Shutdown"
+decompiled = true
+
+[0xf21570]
+last_change = 2026-09-10T18:37:54.840245Z
+addr = 0xf21570
+func_addr = 0xf214e0
+comment = "0x20 = 32LL = IGameSystemFactory_DestroyGameSystem"
+decompiled = true
+
+[0xf21593]
+last_change = 2026-09-10T18:37:54.840264Z
+addr = 0xf21593
+func_addr = 0xf214e0
+comment = "0x1D8 = 472LL = IGameSystem_GetName"
+decompiled = true
+
+[0xf4f2fb]
+last_change = 2026-09-10T18:37:55.072617Z
+addr = 0xf4f2fb
+func_addr = 0xf4f240
+comment = "0x8 = 8LL = IGameSystemFactory_PostInit"
+decompiled = true
+
+[0xf4f33d]
+last_change = 2026-09-10T18:37:55.072640Z
+addr = 0xf4f33d
+func_addr = 0xf4f240
+comment = "0x48 = 72LL = IGameSystemFactory_GetStaticGameSystem"
+decompiled = false
+
+[0xf4f340]
+last_change = 2026-09-10T18:37:55.079929Z
+addr = 0xf4f340
+func_addr = 0xf4f240
+comment = "0x48 = 72LL = IGameSystemFactory_GetStaticGameSystem"
+decompiled = true
+
+[0xf5573d]
+last_change = 2026-09-10T18:37:55.111752Z
+addr = 0xf5573d
+func_addr = 0xf556c0
+comment = "0x28 = 40LL = IGameSystemFactory_ShouldAutoAdd"
+decompiled = true
+
+[0xf5579f]
+last_change = 2026-09-10T18:37:55.111774Z
+addr = 0xf5579f
+func_addr = 0xf556c0
+comment = "0x18 = 24LL = IGameSystemFactory_CreateGameSystem"
+decompiled = true
+
+[0xf557b3]
+last_change = 2026-09-10T18:37:55.111780Z
+addr = 0xf557b3
+func_addr = 0xf556c0
+comment = "0x40 = 64LL = IGameSystemFactory_IsReallocating"
+decompiled = true
+
+[0xf557c4]
+last_change = 2026-09-10T18:37:55.111784Z
+addr = 0xf557c4
+func_addr = 0xf556c0
+comment = "0x1E8 = 488LL = IGameSystem_SetName"
+decompiled = true
+
+[0x16fe827]
+last_change = 2026-09-10T18:37:55.462643Z
+addr = 0x16fe827
+func_addr = 0x16fe7e0
+comment = "0x68 = 104LL = IGameEventManager2_UnserializeEvent"
+decompiled = true
+
+[0x16fe851]
+last_change = 2026-09-10T18:37:55.462669Z
+addr = 0x16fe851
+func_addr = 0x16fe7e0
+comment = "0x48 = 72LL = IGameEventManager2_FireEventClientSide"
+decompiled = true
+
+[0x17269d3]
+last_change = 2026-09-10T18:37:55.575393Z
+addr = 0x17269d3
+func_addr = 0x1726950
+comment = "0x98 = 152LL = CEntityInstance_PreDataUpdate"
+decompiled = true
+
+[0x172ef3d]
+last_change = 2026-09-10T18:37:56.228330Z
+addr = 0x172ef3d
+func_addr = 0x172ef20
+comment = "0xE8 = 232LL = IEngineServiceMgr_GetEventDispatcher"
+decompiled = false
+
+[0x172ef43]
+last_change = 2026-09-10T18:37:56.234819Z
+addr = 0x172ef43
+func_addr = 0x172ef20
+comment = "0xE8 = 232LL = IEngineServiceMgr_GetEventDispatcher"
+decompiled = true
+
+[0x1888069]
+last_change = 2026-09-10T18:37:56.651676Z
+addr = 0x1888069
+func_addr = 0x1887fc0
+comment = "0x150 = 336LL = IVEngineClient2_IsPlayingDemo"
+decompiled = true
+
+[0x197f6e9]
+last_change = 2026-09-10T18:37:56.842921Z
+addr = 0x197f6e9
+func_addr = 0x197f0c0
+comment = "0xF8 = 248LL = IEngineServiceMgr_GetActiveLoopClientServerMode"
+decompiled = false
+
+[0x197f6f2]
+last_change = 2026-09-10T18:37:56.849134Z
+addr = 0x197f6f2
+func_addr = 0x197f0c0
+comment = "0xF8 = 248LL = IEngineServiceMgr_GetActiveLoopClientServerMode"
+decompiled = true
+
+[0x1a4cbd5]
+last_change = 2026-09-10T18:37:56.881483Z
+addr = 0x1a4cbd5
+func_addr = 0x1a4cae0
+comment = "0x190 = 400LL = IVEngineClient2_ExecuteClientCmd"
+decompiled = true

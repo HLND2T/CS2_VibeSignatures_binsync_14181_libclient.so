@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:54:32.837440Z
+last_change = 2026-09-10T18:37:41.694907Z
 addr = 0xcabb90
 size = 0x1
 name = "IGameSystem_OnClientPostUpdate"
+type = "void"
 
 [header]
 name = "IGameSystem_OnClientPostUpdate"
 addr = 0xcabb90
+type = "void"
 
 [header.args]

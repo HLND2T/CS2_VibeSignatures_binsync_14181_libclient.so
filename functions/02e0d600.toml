@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:54:32.837597Z
+last_change = 2026-09-10T18:37:41.695328Z
 addr = 0x2e0d600
 size = 0x920
 name = "CEntitySystem_ctor"
+type = "long long"
 
 [header]
 name = "CEntitySystem_ctor"
 addr = 0x2e0d600
+type = "long long"
 
 [header.args]

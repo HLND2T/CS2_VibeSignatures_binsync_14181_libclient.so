@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:54:32.837531Z
+last_change = 2026-09-10T18:37:41.695154Z
 addr = 0x1727110
 size = 0xbb
 name = "CLoopModeGame_OnFrameBoundary"
+type = "long long"
 
 [header]
 name = "CLoopModeGame_OnFrameBoundary"
 addr = 0x1727110
+type = "long long"
 
 [header.args]

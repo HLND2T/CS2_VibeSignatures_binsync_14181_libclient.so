@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:54:32.837469Z
+last_change = 2026-09-10T18:37:41.694980Z
 addr = 0xf25b40
 size = 0x21e
 name = "IGameSystem_LoopDestroyAllSystems"
+type = "void"
 
 [header]
 name = "IGameSystem_LoopDestroyAllSystems"
 addr = 0xf25b40
+type = "void"
 
 [header.args]

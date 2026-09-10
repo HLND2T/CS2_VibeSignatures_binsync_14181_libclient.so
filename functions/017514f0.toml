@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:54:32.837571Z
+last_change = 2026-09-10T18:37:41.695267Z
 addr = 0x17514f0
 size = 0x8
 name = "CLoopModeFactory_CLoopModeGame_Init"
+type = "long long"
 
 [header]
 name = "CLoopModeFactory_CLoopModeGame_Init"
 addr = 0x17514f0
+type = "long long"
 
 [header.args]

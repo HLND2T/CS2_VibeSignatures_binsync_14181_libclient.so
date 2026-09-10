@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:54:32.837592Z
+last_change = 2026-09-10T18:37:41.695318Z
 addr = 0x1ad8420
 size = 0xe27
 name = "ClientModeCSNormal_Update"
+type = "long long"
 
 [header]
 name = "ClientModeCSNormal_Update"
 addr = 0x1ad8420
+type = "long long"
 
 [header.args]
