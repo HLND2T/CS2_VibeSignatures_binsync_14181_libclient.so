@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:54:32.837486Z
+addr = 0xf556c0
+size = 0xc92
+name = "IGameSystem_LoopInitAllSystems"
+
+[header]
+name = "IGameSystem_LoopInitAllSystems"
+addr = 0xf556c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:54:32.837455Z
+addr = 0xcabca0
+size = 0x1
+name = "IGameSystem_OnClientFrameSimulate"
+
+[header]
+name = "IGameSystem_OnClientFrameSimulate"
+addr = 0xcabca0
+
+[header.args]

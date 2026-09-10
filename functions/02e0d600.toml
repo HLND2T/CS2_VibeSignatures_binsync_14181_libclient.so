@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:54:32.837597Z
+addr = 0x2e0d600
+size = 0x920
+name = "CEntitySystem_ctor"
+
+[header]
+name = "CEntitySystem_ctor"
+addr = 0x2e0d600
+
+[header.args]

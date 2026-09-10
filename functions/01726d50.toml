@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:54:32.837520Z
+addr = 0x1726d50
+size = 0xbb
+name = "CLoopModeGame_OnClientPollNetworking"
+
+[header]
+name = "CLoopModeGame_OnClientPollNetworking"
+addr = 0x1726d50
+
+[header.args]

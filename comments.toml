@@ -1,0 +1,132 @@
+[0xf3382f]
+last_change = 2026-09-10T06:54:46.744119Z
+addr = 0xf3382f
+func_addr = 0xf336a0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x16bdf09]
+last_change = 2026-09-10T06:54:47.175481Z
+addr = 0x16bdf09
+func_addr = 0x16bdd70
+comment = "switch 10 cases"
+decompiled = false
+
+[0x16bdf20]
+last_change = 2026-09-10T06:54:47.175507Z
+addr = 0x16bdf20
+func_addr = 0x16bdd70
+comment = "switch jump"
+decompiled = false
+
+[0x16bdf28]
+last_change = 2026-09-10T06:54:47.175514Z
+addr = 0x16bdf28
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 cases 3,8"
+decompiled = false
+
+[0x16bdf9d]
+last_change = 2026-09-10T06:54:47.175519Z
+addr = 0x16bdf9d
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 case 0"
+decompiled = false
+
+[0x16bdff0]
+last_change = 2026-09-10T06:54:47.175525Z
+addr = 0x16bdff0
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 cases 4,9"
+decompiled = false
+
+[0x16be000]
+last_change = 2026-09-10T06:54:47.175531Z
+addr = 0x16be000
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 case 2"
+decompiled = false
+
+[0x16be080]
+last_change = 2026-09-10T06:54:47.175535Z
+addr = 0x16be080
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 case 7"
+decompiled = false
+
+[0x16be100]
+last_change = 2026-09-10T06:54:47.175540Z
+addr = 0x16be100
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 case 1"
+decompiled = false
+
+[0x16be188]
+last_change = 2026-09-10T06:54:47.175545Z
+addr = 0x16be188
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 case 6"
+decompiled = false
+
+[0x16be198]
+last_change = 2026-09-10T06:54:47.175549Z
+addr = 0x16be198
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 case 5"
+decompiled = false
+
+[0x16be23f]
+last_change = 2026-09-10T06:54:47.175557Z
+addr = 0x16be23f
+func_addr = 0x16bdd70
+comment = "jumptable 00000000016BDF20 default case"
+decompiled = false
+
+[0x18ba22f]
+last_change = 2026-09-10T06:54:48.549478Z
+addr = 0x18ba22f
+func_addr = 0x18b9b10
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x1a4cb22]
+last_change = 2026-09-10T06:54:48.707756Z
+addr = 0x1a4cb22
+func_addr = 0x1a4cae0
+comment = "s1"
+decompiled = false
+
+[0x1a4cb39]
+last_change = 2026-09-10T06:54:48.707791Z
+addr = 0x1a4cb39
+func_addr = 0x1a4cae0
+comment = "s1"
+decompiled = false
+
+[0x1a4cb50]
+last_change = 2026-09-10T06:54:48.707800Z
+addr = 0x1a4cb50
+func_addr = 0x1a4cae0
+comment = "s1"
+decompiled = false
+
+[0x1a4cb7a]
+last_change = 2026-09-10T06:54:48.707808Z
+addr = 0x1a4cb7a
+func_addr = 0x1a4cae0
+comment = "s1"
+decompiled = false
+
+[0x1a4ccfe]
+last_change = 2026-09-10T06:54:48.707816Z
+addr = 0x1a4ccfe
+func_addr = 0x1a4cae0
+comment = "s1"
+decompiled = false
+
+[0x1a4cd77]
+last_change = 2026-09-10T06:54:48.707823Z
+addr = 0x1a4cd77
+func_addr = 0x1a4cae0
+comment = "s1"
+decompiled = false

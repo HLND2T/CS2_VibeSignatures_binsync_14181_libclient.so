@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:54:32.837464Z
+addr = 0xf20e20
+size = 0x10d
+name = "IGameSystem_ShutdownAllSystems"
+
+[header]
+name = "IGameSystem_ShutdownAllSystems"
+addr = 0xf20e20
+
+[header.args]
