@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:37:41.695035Z
+last_change = 2026-09-11T03:33:55.364982Z
 addr = 0x16148c0
 size = 0xfd
 name = "CBasePlayerController_CheckForLocalPlayer"
-type = "long long"
 
 [header]
 name = "CBasePlayerController_CheckForLocalPlayer"
 addr = 0x16148c0
-type = "long long"
 
 [header.args]

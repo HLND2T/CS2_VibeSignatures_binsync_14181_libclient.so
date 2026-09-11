@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:37:54.801335Z
+last_change = 2026-09-11T03:33:55.364914Z
 addr = 0xf20e20
 size = 0x10d
 name = "IGameSystem_ShutdownAllSystems"
-type = "long long"
 
 [header]
 name = "IGameSystem_ShutdownAllSystems"
 addr = 0xf20e20
-type = "long long"
 
 [header.args]

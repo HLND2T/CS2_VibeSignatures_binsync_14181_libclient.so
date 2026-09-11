@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:37:55.575393Z
+last_change = 2026-09-11T03:33:55.365035Z
 addr = 0x1726950
 size = 0xa8
 name = "CLoopModeGame_OnPreDataUpdate"
-type = "void"
 
 [header]
 name = "CLoopModeGame_OnPreDataUpdate"
 addr = 0x1726950
-type = "void"
 
 [header.args]

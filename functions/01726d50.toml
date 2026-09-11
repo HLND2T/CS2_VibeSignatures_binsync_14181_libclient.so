@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:37:41.695103Z
+last_change = 2026-09-11T03:33:55.365048Z
 addr = 0x1726d50
 size = 0xbb
 name = "CLoopModeGame_OnClientPollNetworking"
-type = "long long"
 
 [header]
 name = "CLoopModeGame_OnClientPollNetworking"
 addr = 0x1726d50
-type = "long long"
 
 [header.args]

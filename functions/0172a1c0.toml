@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:37:41.695205Z
+last_change = 2026-09-11T03:33:55.365120Z
 addr = 0x172a1c0
 size = 0x1a6
 name = "CLoopModeGame_OnLoopActivate"
-type = "unsigned long long **"
 
 [header]
 name = "CLoopModeGame_OnLoopActivate"
 addr = 0x172a1c0
-type = "unsigned long long **"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:37:41.695211Z
+last_change = 2026-09-11T03:33:55.365125Z
 addr = 0x172ab60
 size = 0x16a
 name = "CLoopModeGame_LoopShutdown"
-type = "void"
 
 [header]
 name = "CLoopModeGame_LoopShutdown"
 addr = 0x172ab60
-type = "void"
 
 [header.args]

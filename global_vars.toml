@@ -1,31 +1,31 @@
 [0x4462900]
-last_change = 2026-09-10T18:37:57.199703Z
+last_change = 2026-09-11T03:34:11.153706Z
 addr = 0x4462900
-name = "g_pInterfaceGlobals"
+name = "off_4462900"
 size = 0x8
 
 [0x45a0848]
-last_change = 2026-09-10T18:37:57.199868Z
+last_change = 2026-09-11T03:34:11.153790Z
 addr = 0x45a0848
-name = "g_pCSGOInput"
+name = "off_45A0848"
 size = 0x8
 
 [0x47fb7b8]
-last_change = 2026-09-10T18:37:57.199962Z
+last_change = 2026-09-11T03:34:11.153828Z
 addr = 0x47fb7b8
-name = "s_pLocalPlayer"
+name = "qword_47FB7B8"
 size = 0x8
 
 [0x4828938]
-last_change = 2026-09-10T18:37:57.200063Z
+last_change = 2026-09-11T03:34:11.153859Z
 addr = 0x4828938
-name = "g_pEngineClient"
+name = "qword_4828938"
 size = 0x8
 
 [0x482d5d0]
-last_change = 2026-09-10T18:37:57.200142Z
+last_change = 2026-09-11T03:34:11.153885Z
 addr = 0x482d5d0
-name = "g_pGameRules"
+name = "qword_482D5D0"
 size = 0x8
 
 [0x4844680]
@@ -65,11 +65,10 @@ name = "g_pSource2EngineToServer"
 size = 0x1
 
 [0x48dcca0]
-last_change = 2026-09-10T18:37:57.200481Z
+last_change = 2026-09-11T03:34:11.154230Z
 addr = 0x48dcca0
 name = "g_pSource2EngineToClient"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcca8]
 last_change = 2026-09-10T06:54:49.035977Z
@@ -102,18 +101,16 @@ name = "g_pBenchmarkService"
 size = 0x1
 
 [0x48dccd0]
-last_change = 2026-09-10T18:37:57.200641Z
+last_change = 2026-09-11T03:34:11.154402Z
 addr = 0x48dccd0
 name = "g_pSoundService"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dccd8]
-last_change = 2026-09-10T18:37:57.200673Z
+last_change = 2026-09-11T03:34:11.154420Z
 addr = 0x48dccd8
 name = "g_pGameUIService"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcce0]
 last_change = 2026-09-10T06:54:49.036155Z
@@ -122,11 +119,10 @@ name = "g_pMapListService"
 size = 0x1
 
 [0x48dcce8]
-last_change = 2026-09-10T18:37:57.200721Z
+last_change = 2026-09-11T03:34:11.154453Z
 addr = 0x48dcce8
 name = "g_pInputService"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dccf0]
 last_change = 2026-09-10T06:54:49.036186Z
@@ -141,11 +137,10 @@ name = "g_pStatsService"
 size = 0x1
 
 [0x48dcd00]
-last_change = 2026-09-10T18:37:57.200823Z
+last_change = 2026-09-11T03:34:11.154524Z
 addr = 0x48dcd00
 name = "g_pRenderService"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcd08]
 last_change = 2026-09-10T06:54:49.036234Z
@@ -166,18 +161,16 @@ name = "g_pNetworkP2PService"
 size = 0x1
 
 [0x48dcd20]
-last_change = 2026-09-10T18:37:57.200980Z
+last_change = 2026-09-11T03:34:11.154710Z
 addr = 0x48dcd20
 name = "g_pNetworkClientService"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcd28]
-last_change = 2026-09-10T18:37:57.201013Z
+last_change = 2026-09-11T03:34:11.154730Z
 addr = 0x48dcd28
 name = "g_pNetworkService"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcd30]
 last_change = 2026-09-10T06:54:49.036440Z
@@ -186,11 +179,10 @@ name = "g_pHostStateMgr"
 size = 0x1
 
 [0x48dcd38]
-last_change = 2026-09-10T18:37:57.201072Z
+last_change = 2026-09-11T03:34:11.154766Z
 addr = 0x48dcd38
 name = "g_pEngineServiceMgr"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcd40]
 last_change = 2026-09-10T06:54:49.036474Z
@@ -223,11 +215,10 @@ name = "g_pSource2GameClients"
 size = 0x1
 
 [0x48dcd68]
-last_change = 2026-09-10T18:37:57.201184Z
+last_change = 2026-09-11T03:34:11.154867Z
 addr = 0x48dcd68
 name = "g_pSource2Server"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcd78]
 last_change = 2026-09-10T06:54:49.036570Z
@@ -308,11 +299,10 @@ name = "g_pAnimationSystemUtils"
 size = 0x1
 
 [0x48dcde8]
-last_change = 2026-09-10T18:37:57.201484Z
+last_change = 2026-09-11T03:34:11.155285Z
 addr = 0x48dcde8
 name = "g_pAnimationSystem"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcdf0]
 last_change = 2026-09-10T06:54:49.036910Z
@@ -375,18 +365,16 @@ name = "g_pPhysicsBuilderMgr"
 size = 0x1
 
 [0x48dce40]
-last_change = 2026-09-10T18:37:57.201673Z
+last_change = 2026-09-11T03:34:11.155540Z
 addr = 0x48dce40
 name = "g_pToolFramework2"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dce48]
-last_change = 2026-09-10T18:37:57.201701Z
+last_change = 2026-09-11T03:34:11.155560Z
 addr = 0x48dce48
 name = "g_pParticleSystemMgr"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dce50]
 last_change = 2026-09-10T06:54:49.037106Z
@@ -395,11 +383,10 @@ name = "g_pAssetSystem"
 size = 0x1
 
 [0x48dce58]
-last_change = 2026-09-10T18:37:57.201745Z
+last_change = 2026-09-11T03:34:11.155600Z
 addr = 0x48dce58
 name = "g_pWorldRendererMgr"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dce60]
 last_change = 2026-09-10T06:54:49.037139Z
@@ -450,11 +437,10 @@ name = "g_pRenderHardwareConfig"
 size = 0x1
 
 [0x48dcea0]
-last_change = 2026-09-10T18:37:57.201959Z
+last_change = 2026-09-11T03:34:11.155867Z
 addr = 0x48dcea0
 name = "g_pRenderDevice"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dceb0]
 last_change = 2026-09-10T06:54:49.037374Z
@@ -463,25 +449,22 @@ name = "g_pDemoUpconverter"
 size = 0x1
 
 [0x48dceb8]
-last_change = 2026-09-10T18:37:57.202005Z
+last_change = 2026-09-11T03:34:11.155907Z
 addr = 0x48dceb8
 name = "g_pSerializedEntities"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcec0]
-last_change = 2026-09-10T18:37:57.202032Z
+last_change = 2026-09-11T03:34:11.155927Z
 addr = 0x48dcec0
 name = "g_pFlattenedSerializers"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcec8]
-last_change = 2026-09-10T18:37:57.202114Z
+last_change = 2026-09-11T03:34:11.156002Z
 addr = 0x48dcec8
 name = "g_pNetworkMessages"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dced0]
 last_change = 2026-09-10T06:54:49.037490Z
@@ -538,18 +521,16 @@ name = "g_pModelDocUtils"
 size = 0x1
 
 [0x48dcf18]
-last_change = 2026-09-10T18:37:57.202362Z
+last_change = 2026-09-11T03:34:11.156251Z
 addr = 0x48dcf18
 name = "g_pSceneUtils"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcf20]
-last_change = 2026-09-10T18:37:57.202390Z
+last_change = 2026-09-11T03:34:11.156285Z
 addr = 0x48dcf20
 name = "g_pVConComm"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcf28]
 last_change = 2026-09-10T06:54:49.037733Z
@@ -558,11 +539,10 @@ name = "g_pIPulseSystem"
 size = 0x1
 
 [0x48dcf30]
-last_change = 2026-09-10T18:37:57.202485Z
+last_change = 2026-09-11T03:34:11.156378Z
 addr = 0x48dcf30
 name = "g_pSceneSystem"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcf38]
 last_change = 2026-09-10T06:54:49.037817Z
@@ -595,11 +575,10 @@ name = "g_pSoundSystem"
 size = 0x1
 
 [0x48dcf60]
-last_change = 2026-09-10T18:37:57.202717Z
+last_change = 2026-09-11T03:34:11.156537Z
 addr = 0x48dcf60
 name = "g_pInputStackSystem"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcf68]
 last_change = 2026-09-10T06:54:49.037970Z
@@ -626,11 +605,10 @@ name = "g_pAsyncFileSystem"
 size = 0x1
 
 [0x48dcf88]
-last_change = 2026-09-10T18:37:57.202826Z
+last_change = 2026-09-11T03:34:11.156619Z
 addr = 0x48dcf88
 name = "g_pFileSystem"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcf90]
 last_change = 2026-09-10T06:54:49.038047Z
@@ -657,11 +635,10 @@ name = "g_pSchemaSystem"
 size = 0x1
 
 [0x48dcfb0]
-last_change = 2026-09-10T18:37:57.202974Z
+last_change = 2026-09-11T03:34:11.156745Z
 addr = 0x48dcfb0
 name = "g_pResourceSystem"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcfb8]
 last_change = 2026-09-10T06:54:49.038176Z
@@ -670,11 +647,10 @@ name = "g_pResourceManifestRegistry"
 size = 0x1
 
 [0x48dcfc0]
-last_change = 2026-09-10T18:37:57.203074Z
+last_change = 2026-09-11T03:34:11.156830Z
 addr = 0x48dcfc0
 name = "g_pResourceHandleUtils"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x48dcfc8]
 last_change = 2026-09-10T06:54:49.038267Z
@@ -713,14 +689,13 @@ name = "g_pVEngineCvar"
 size = 0x1
 
 [0x48dd008]
-last_change = 2026-09-10T18:37:57.203331Z
+last_change = 2026-09-11T03:34:11.157042Z
 addr = 0x48dd008
 name = "g_pVApplication"
-type = "unsigned long long *"
-size = 0x8
+size = 0x1
 
 [0x4a72350]
-last_change = 2026-09-10T18:37:57.203395Z
+last_change = 2026-09-11T03:34:11.157070Z
 addr = 0x4a72350
-name = "g_pEntitySystem"
+name = "qword_4A72350"
 size = 0x8

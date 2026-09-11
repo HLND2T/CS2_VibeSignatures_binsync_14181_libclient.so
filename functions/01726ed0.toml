@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:37:41.695114Z
+last_change = 2026-09-11T03:33:55.365059Z
 addr = 0x1726ed0
 size = 0xbb
 name = "CLoopModeGame_OnClientAdvanceNonRenderedFrame"
-type = "long long"
 
 [header]
 name = "CLoopModeGame_OnClientAdvanceNonRenderedFrame"
 addr = 0x1726ed0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:37:41.695186Z
+last_change = 2026-09-11T03:33:55.365103Z
 addr = 0x17273f0
 size = 0xf
 name = "CLoopModeGame_OnClientPostOutput"
-type = "void"
 
 [header]
 name = "CLoopModeGame_OnClientPostOutput"
 addr = 0x17273f0
-type = "void"
 
 [header.args]
